@@ -2,7 +2,7 @@
 
 STEP BY STEP - PYHTON 
 
-1. import the required LIBRARIES 
+1. Import the required LIBRARIES 
 2. Read the dataset
 3. Visualize data -> informations 
 4. Split the dataset
