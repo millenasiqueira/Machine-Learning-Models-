@@ -1,6 +1,6 @@
 # Machine-Learning-Models-
 
-STEP BY STEP - PYHTON 
+STEP BY STEP - PYTHON
 
 1. Import the required LIBRARIES 
 2. Read the dataset
